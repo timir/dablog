@@ -9,7 +9,7 @@ categories: jekyll update
 
 Here's an example of including an image in a post:
 
-![Astrix]({{ site.url }}/assets/astrix.jpg)
+![astrix]({{ site.url }}assets/astrix.jpg)
 
 Chances are, at some point, you’ll want to include images, downloads, or other digital assets along with your text content. While the syntax for linking to these resources differs between Markdown and Textile, the problem of working out where to store these files in your site is something everyone will face.
 
